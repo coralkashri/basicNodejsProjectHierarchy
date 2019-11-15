@@ -1,1 +1,1 @@
-Example project: [VersionsTrack][https://github.com/korelkashri/VersionsTrack]
+Example project: [VersionsTrack](https://github.com/korelkashri/VersionsTrack)
